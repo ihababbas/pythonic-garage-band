@@ -4,5 +4,5 @@
 #### Author: Ihab Abbas
 
 
-| PR     | 	[link](https://github.com/ihababbas/pythonic-garage-band./pull/4) |
+| PR     | 	[link](https://github.com/ihababbas/pythonic-garage-band./pull/2) |
 # pythonic-garage-band
